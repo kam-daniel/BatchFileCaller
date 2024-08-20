@@ -29,7 +29,11 @@ namespace YourNamespace
             Response.Write("<html>");
             Response.Write("<head>");
             Response.Write("<title>Execute Batch File</title>");
-            Response.Write("<style>#outputContainer { list-style-type: none; padding: 0; } #outputContainer li { margin-bottom: 5px; }</style>");
+            Response.Write("<style>");
+            Response.Write("body { background-color: black; color: white; font-family: 'Courier New', Courier, monospace; }");
+            Response.Write("#outputContainer { list-style-type: none; padding: 0; }");
+            Response.Write("#outputContainer li { margin-bottom: 5px; }");
+            Response.Write("</style>");
             Response.Write("</head>");
             Response.Write("<body>");
             Response.Write("<form id=\"form1\" runat=\"server\">");
