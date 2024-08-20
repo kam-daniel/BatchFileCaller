@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchFileCaller", "BatchFileCaller\BatchFileCaller.csproj", "{6126C575-EEE0-4F98-A1F1-E433FAE967D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6126C575-EEE0-4F98-A1F1-E433FAE967D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6126C575-EEE0-4F98-A1F1-E433FAE967D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6126C575-EEE0-4F98-A1F1-E433FAE967D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6126C575-EEE0-4F98-A1F1-E433FAE967D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8BA70F-F1DD-42CC-BDF3-E0B381C496FF}
+	EndGlobalSection
+EndGlobal
