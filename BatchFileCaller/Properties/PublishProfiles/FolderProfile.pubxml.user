@@ -5,15 +5,15 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\dvandenbosch\source\repos\BatchFileCaller\BatchFileCaller\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2024-08-20T18:19:32.3119286Z||;True|2024-08-19T16:15:26.4757277-04:00||;True|2024-08-19T16:11:08.8782815-04:00||;True|2024-08-19T16:03:22.4731753-04:00||;True|2024-08-19T15:52:20.6922991-04:00||;True|2024-08-19T15:46:36.6093563-04:00||;True|2024-08-19T15:32:37.8833004-04:00||;True|2024-08-19T15:23:55.9549489-04:00||;True|2024-08-19T13:51:01.7954102-04:00||;True|2024-08-19T13:39:06.0568187-04:00||;True|2024-08-19T13:37:18.6489589-04:00||;True|2024-08-19T13:11:44.1802463-04:00||;</History>
+    <History>True|2024-09-16T17:04:42.4971975Z||;True|2024-09-16T13:04:18.5925180-04:00||;True|2024-09-16T12:55:02.1763560-04:00||;True|2024-08-27T09:56:25.5919996-04:00||;True|2024-08-20T14:19:32.3119286-04:00||;True|2024-08-19T16:15:26.4757277-04:00||;True|2024-08-19T16:11:08.8782815-04:00||;True|2024-08-19T16:03:22.4731753-04:00||;True|2024-08-19T15:52:20.6922991-04:00||;True|2024-08-19T15:46:36.6093563-04:00||;True|2024-08-19T15:32:37.8833004-04:00||;True|2024-08-19T15:23:55.9549489-04:00||;True|2024-08-19T13:51:01.7954102-04:00||;True|2024-08-19T13:39:06.0568187-04:00||;True|2024-08-19T13:37:18.6489589-04:00||;True|2024-08-19T13:11:44.1802463-04:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/BatchFileCaller.dll">
-      <publishTime>08/20/2024 14:19:18</publishTime>
+      <publishTime>09/16/2024 13:04:41</publishTime>
     </File>
     <File Include="bin/BatchFileCaller.pdb">
-      <publishTime>08/20/2024 14:19:18</publishTime>
+      <publishTime>09/16/2024 13:04:41</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>09/05/2018 16:10:50</publishTime>
@@ -169,7 +169,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/19/2024 16:15:10</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/20/2024 14:19:31</publishTime>
+      <publishTime>09/16/2024 12:55:01</publishTime>
     </File>
   </ItemGroup>
 </Project>

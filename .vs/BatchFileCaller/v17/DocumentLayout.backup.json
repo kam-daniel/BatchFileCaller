@@ -3,16 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\batchfilecaller\\executebatchfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|solutionrelative:batchfilecaller\\executebatchfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BatchFileCaller||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\batchfilecaller\\executebatchfile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|solutionrelative:batchfilecaller\\executebatchfile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\batchfilecaller\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|solutionrelative:batchfilecaller\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|c:\\users\\dvandenbosch\\source\\repos\\batchfilecaller\\batchfilecaller\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|solutionrelative:batchfilecaller\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|c:\\users\\dvandenbosch\\source\\repos\\batchfilecaller\\batchfilecaller\\executebatchfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|solutionrelative:batchfilecaller\\executebatchfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6126C575-EEE0-4F98-A1F1-E433FAE967D8}|BatchFileCaller\\BatchFileCaller.csproj|c:\\users\\dvandenbosch\\source\\repos\\batchfilecaller\\batchfilecaller\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +33,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExecuteBatchFile.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\ExecuteBatchFile.aspx.cs",
-              "RelativeDocumentMoniker": "BatchFileCaller\\ExecuteBatchFile.aspx.cs",
-              "ToolTip": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\ExecuteBatchFile.aspx.cs",
-              "RelativeToolTip": "BatchFileCaller\\ExecuteBatchFile.aspx.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:42:14.166Z",
+              "Title": "BatchFileCaller",
+              "DocumentMoniker": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\BatchFileCaller.csproj",
+              "RelativeDocumentMoniker": "BatchFileCaller\\BatchFileCaller.csproj",
+              "ToolTip": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\BatchFileCaller.csproj",
+              "RelativeToolTip": "BatchFileCaller\\BatchFileCaller.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T17:02:21.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\Web.config",
-              "RelativeDocumentMoniker": "BatchFileCaller\\Web.config",
-              "ToolTip": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\Web.config",
-              "RelativeToolTip": "BatchFileCaller\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-19T17:48:50.793Z",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BatchFileCaller\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "BatchFileCaller\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:32:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecuteBatchFile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\ExecuteBatchFile.aspx.cs",
+              "RelativeDocumentMoniker": "BatchFileCaller\\ExecuteBatchFile.aspx.cs",
+              "ToolTip": "C:\\Users\\dvandenbosch\\source\\repos\\BatchFileCaller\\BatchFileCaller\\ExecuteBatchFile.aspx.cs",
+              "RelativeToolTip": "BatchFileCaller\\ExecuteBatchFile.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:42:14.166Z",
               "EditorCaption": ""
             },
             {
@@ -60,7 +78,8 @@
               "RelativeToolTip": "BatchFileCaller\\ExecuteBatchFile.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-19T14:22:11.016Z"
+              "WhenOpened": "2024-08-19T14:22:11.016Z",
+              "EditorCaption": ""
             }
           ]
         }
